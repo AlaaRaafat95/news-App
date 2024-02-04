@@ -1,0 +1,30 @@
+{
+  "categories":[
+    {
+      "name":"Business",
+      "image":"https://emeritus.org/wp-content/uploads/sites/3/2023/04/what-does-a-business-analyst-do.png"
+    },
+    {
+      "name":"Entertainment",
+      "image":"https://images.unsplash.com/photo-1603190287605-e6ade32fa852?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW50ZXJ0YWlubWVudHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+   
+    {
+      "name":"Health",
+      "image":"https://www.srbija.gov.rs/static/en/65775/0/img_65775.jpg"
+    },
+    {
+      "name":"Science",
+      "image":"https://media.istockphoto.com/id/1395657542/photo/in-a-futuristic-laboratory-a-scientist-with-a-pipette-analyzes-a-colored-liquid-to-extract.webp?b=1&s=170667a&w=0&k=20&c=4KrxFNaOLba46ZV4lwun5JimjAvu4ysDd5vr8qGlekY="
+    },
+    {
+      "name":"Sports",
+      "image":"https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph"
+    },
+    {
+      "name":"Technology",
+      "image":"https://www.simplilearn.com/ice9/free_resources_article_thumb/Technology_Trends.jpg"
+    }
+  ]
+ 
+}
